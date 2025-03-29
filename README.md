@@ -152,11 +152,9 @@ product.
 
 ## References
 
-*Mohamed Hany. Kaggle Chest CT-Scan. https://www.kaggle.com/datasets/mohamedhanyyy/
-chest-ctscan-images.*
+*Mohamed Hany. Kaggle Chest CT-Scan. https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images.*
 
-*Faizan Khan. Kaggle Lung C. https://www.kaggle.com/datasets/faizankhan20cab105/
-lung-c/data.*
+*Faizan Khan. Kaggle Lung C. https://www.kaggle.com/datasets/faizankhan20cab105/lung-c/data.*
 
 ## Contributors
 
